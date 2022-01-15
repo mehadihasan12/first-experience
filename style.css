@@ -43,3 +43,6 @@ footer{
     text-align: center;
     padding: 200px;
 }
+#padding{
+    border-left: 7px solid;
+}
