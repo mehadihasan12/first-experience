@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.coxs-color{
+    color: brown;
+}
+.go-button{
+    text-decoration: none;
+    background-image: linear-gradient(green red);
+    padding: 5%px 50px;
+    color: blue;
+    font-weight: 700;
+    border-radius: 5%;
+}
+.first-flex{
+    display: flex;
+}
+.first-flex img{
+    border-radius: 30%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
