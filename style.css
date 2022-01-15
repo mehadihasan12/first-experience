@@ -17,6 +17,7 @@ h1{
 }
 .first-flex{
     display: flex;
+    margin-bottom: 200px;
 }
 .first-flex img{
     border-radius: 30%;
